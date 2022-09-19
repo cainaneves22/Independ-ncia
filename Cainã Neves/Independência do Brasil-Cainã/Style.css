@@ -1,0 +1,40 @@
+body {
+    background-color:#82b74b;
+    opacity: 0.8;
+    color: black;
+    font-size: 17px;
+}
+div {
+    align-items: center;
+    text-align: center;
+}
+
+main {
+    width:40%;
+    border: 15px aquamarine;
+    padding: 50px;
+    margin: auto;
+    border-style: solid;
+    border-color: #ffef96;
+    background-color:#AFEEEE;
+    text-align: center;
+    align-items: center;
+    border-radius:5rem;
+    
+}
+
+
+.Imagem {
+    width: 100%;
+    max-width: 480px;
+    height: auto;
+    
+}
+
+p {
+    text-align: justify;
+}
+
+li {
+    text-align: justify;
+}
